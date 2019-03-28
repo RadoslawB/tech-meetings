@@ -5,12 +5,7 @@
 - `cmd` = `⌘` || `Ctrl` 
 - `alt` = `⌥` || `Alt`
 
-Credits to: 
- - MK
- - MW
- - PJ
- 
- 
+
 Start with `System Preferences => Keyboard => Key Repeat Rate`
 
 
@@ -18,6 +13,8 @@ Start with `System Preferences => Keyboard => Key Repeat Rate`
 <br/>
 
 ##  InteliJ ecosystem
+
+Kyemap used in examples is inluced in repository.
 
 ### How to define?
 - `cmd + , ` open prefferences
