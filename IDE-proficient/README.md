@@ -98,3 +98,10 @@ Kyemap used in examples is inluced in repository.
 - ##### [better touch tool](https://folivora.ai/) - customize macOS behaviour 
 - ##### [iterm](https://www.iterm2.com/) - modern teminal
 - ##### [vim](https://www.vim.org/) - start with vimtutor
+
+### Iterm2 
+
+1. Split pane vertically `cmd + d`
+2. Spit pane horizontally `cmd + shift + d`
+3. Navigate between banes `cmd + alt + arrow`
+4. Close pane `cmd + w`
