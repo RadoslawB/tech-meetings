@@ -101,7 +101,10 @@ Kyemap used in examples is inluced in repository.
 
 ### Iterm2 
 
-1. Split pane vertically `cmd + d`
-2. Spit pane horizontally `cmd + shift + d`
-3. Navigate between banes `cmd + alt + arrow`
-4. Close pane `cmd + w`
+1. New tab `cmd + t` - as in chrome
+2. Move between tabs `cmd + shift + [ or ]
+3. Split pane vertically `cmd + d`
+4. Spit pane horizontally `cmd + shift + d`
+6. Navigate between panes `cmd + alt + arrow`
+7. Close pane `cmd + w`
+
