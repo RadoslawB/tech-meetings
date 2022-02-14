@@ -1,13 +1,14 @@
 # Cursor delay until repeat & key repeat rate
 For mac: 
+<br>
 <img width="631" alt="Screenshot 2022-02-14 at 15 49 43" src="https://user-images.githubusercontent.com/23079981/153886500-3e54ce5f-9d1c-4454-9bab-e1f8855fcb6f.png">
 
 
 # Editor agnostic text navigation
 
-1. Arrow + option - move by word
-2. Arrow + option + shift - select by word
-3.
+1. `Arrow + option` - move by word
+2. `Arrow + option + shift` - select by word
+3. `cmd + shift + left arrow` - select from carret to end of line
 
 # Intellij shortcuts
 
@@ -54,23 +55,12 @@ For mac:
  - `cmd + arrow up` 
  
 
-  
- 
-
-
-### [Debugger!](https://chrome.google.com/webstore/detail/jetbrains-ide-support/hmhgeddbohgjknpmjagkdomcpobmllji):
-##### Overwrite values, pause execution, forget about console.log
-- `crl + d` - run debugger
-- `cmd + 8` - toggle breakpoint
-
 
 ### Live templates: `TAB and go`
-- `cl`
+- `cl` - in JS files
 - `tap`
 - `iter`
-- `fori`
 
-<br/>
 <br/>
 
 # Plugins
@@ -104,11 +94,7 @@ For mac:
             git checkout feature/"$1"
     }
     ```
-
-- ##### [keypromoter](https://plugins.jetbrains.com/plugin/9792-key-promoter-x) - InteliJ plugin to get started with shortucts
-- ##### [husky - commit hooks in node](https://github.com/typicode/husky) - tidy up code
 - ##### [better touch tool](https://folivora.ai/) - customize macOS behaviour 
-
 - [vim](https://www.vim.org/) - start with vimtutor
 - [better touch tool](https://folivora.ai/) - customize macOS behaviour 
 
