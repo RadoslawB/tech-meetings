@@ -21,12 +21,12 @@ For mac:
 ### How to define?
 - `cmd + , ` open prefferences
 - type what you need
-- add shortcut or abbreviation
+- add shortcut or abbreviation - example: rc for resolve conflicts
 - search for shortcut
 
 
 ### Must have
-- `Shift + Shift` - search everywhere for any signature
+- `Shift + Shift` - search everywhere for everything: singatures, actions, files
  - upper case letters search for camel case names
 - `cmd + B` - go to definition. When on definition, show usages.
 - `Tab` - code completion
