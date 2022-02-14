@@ -66,21 +66,21 @@ For mac:
 # Plugins
 1. [keypromoter](https://plugins.jetbrains.com/plugin/9792-key-promoter-x) - InteliJ plugin to get started with shortucts
 2. Tabnine - AI powered completions. 
- 3. Show dashboard
- 4. Tabnine logo in completion window
- 5. Autocomples even comments
+  3. Show dashboard
+  4. Tabnine logo in completion window
+  5. Autocomples even comments
 3. AWS Explorer
- 4. Pick profile & region
- 5. Usefull to preview resources
+  4. Pick profile & region
+  5. Usefull to preview resources
 
 # Other
 - get decent terminal
- - iTerm basics: 
-  - split pane `cmd + d` - horizontal & `cmd + shift + d` - vertical
-  - navigate between tabs (as in Chrome) 
-   - `cmd + t` - new
-   - `cmd + w` - close 
-   - `cmd + shift + left/right arrow` - navigate between
+  - iTerm basics: 
+    - split pane `cmd + d` - horizontal & `cmd + shift + d` - vertical
+    - navigate between tabs (as in Chrome) 
+    - `cmd + t` - new
+    - `cmd + w` - close 
+    - `cmd + shift + left/right arrow` - navigate between
   - show hints on Tab
 - configure shell profile. Add aliases and functions. Example:
     `.bash_profile`:
