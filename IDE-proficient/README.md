@@ -39,9 +39,9 @@ For mac:
 - `cmd + r` - replace
 - `shfir + F6` - rename - checks occurances, ask to define scope.
 - Refactor `ctr + t`
- - Introduce variable / constant / field
- - Extract method
- - Move
+  - Introduce variable / constant / field
+  - Extract method
+  - Move
 - `cmd + d` - duplicate. If no selection, duplicate current line
 - clone carrets
 - `alt + Enter` - Show intention actions. Flip if/else, extract named fn
