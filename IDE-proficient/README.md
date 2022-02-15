@@ -66,12 +66,12 @@ For mac:
 # Plugins
 1. [keypromoter](https://plugins.jetbrains.com/plugin/9792-key-promoter-x) - InteliJ plugin to get started with shortucts
 2. Tabnine - AI powered completions. 
-  - Show dashboard
-  - Tabnine logo in completion window
-  - Autocomples even comments
+   - Show dashboard
+   - Tabnine logo in completion window
+   - Autocomples even comments
 3. AWS Explorer
-  - Pick profile & region
-  - Usefull to preview resources
+   - Pick profile & region
+   - Usefull to preview resources
 
 # Other
 - get decent terminal
