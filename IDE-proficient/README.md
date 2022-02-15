@@ -46,6 +46,7 @@ For mac:
 - clone carrets
 - `alt + Enter` - Show intention actions. Flip if/else, extract named fn
 - `cmd + [0-9]` - toggle windows. 9 is version control, 1 is project tree
+- `cmd + r` - rename. Handles regex
 
 ### Navigate in code and project: 
  - `cmd + w` - close tab. Works in browsers & terminal 
