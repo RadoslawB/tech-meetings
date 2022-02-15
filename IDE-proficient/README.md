@@ -95,8 +95,8 @@ For mac:
             git checkout feature/"$1"
     }
     ```
-- ##### [better touch tool](https://folivora.ai/) - customize macOS behaviour 
-- [vim](https://www.vim.org/) - start with vimtutor
 - [better touch tool](https://folivora.ai/) - customize macOS behaviour 
+- [vim](https://www.vim.org/) - start with vimtutor
+
 
 
